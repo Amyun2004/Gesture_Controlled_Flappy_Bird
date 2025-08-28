@@ -13,9 +13,9 @@ class Game:
         # Game constants
         self.SCREEN_WIDTH = 500
         self.SCREEN_HEIGHT = 740
-        self.GRAVITY = 1.0
-        self.FLAP_STRENGTH = -10
-        self.PIPE_VELOCITY = -5
+        self.GRAVITY = 1.5
+        self.FLAP_STRENGTH = -11
+        self.PIPE_VELOCITY = -6
         self.PIPE_GAP = 150
         self.PIPE_WIDTH = 80
         # NEW: A downward force for the open palm gesture.
